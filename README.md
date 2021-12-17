@@ -1,4 +1,6 @@
 # Student-Grades-Analysis-Prediction-Model
+Direct link to notebook: https://colab.research.google.com/drive/1GHEgi_pAoZmDNbQIaNvzdMf_5fCWqNu5?usp=sharing  
+
 Program Information: This notebook will analyze the impact of different variables with the academic performance of students. Furthermore, the notebook will create different predictive models and evaluate which model performs the best.
 
 Dependencies: Python, Sklearn, Pandas, NumPy, MatPlotLib. These installations and libraries are already included with Google Collab but are here for your reference.
